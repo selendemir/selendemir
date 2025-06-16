@@ -1,12 +1,13 @@
 
 <img width="1834" alt="Make your README (1)" src="https://github.com/selendemir/selendemir/assets/45327213/09e7fa4c-9746-451c-939b-7196f6837a2d">
 
+[![Featured in Android Weekly](https://img.shields.io/badge/Featured_in-Android_Weekly_%23679-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://androidweekly.net/issues/issue-679)
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?resize=400x300&vertical=center">
 
-
-- 🌱 I’m currently learning Jetpack Compose
-
+- 🌱 I’m currently learning Jetpack Compose  
 - ⚡ Fun fact **I'm a dog mom**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
